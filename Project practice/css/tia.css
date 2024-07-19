@@ -1,0 +1,85 @@
+body { 
+  background: grey;
+  margin : 0px;
+  padding: 0px;
+  }
+  
+  p { 
+ 
+  }
+  
+  
+  
+  .first_line  { 
+  
+   color: #fbf8cc;
+  font-size: 20px; 
+  font-weight: bolder
+  } 
+  
+  .featured { 
+  color: #0aff99;
+  font-size: 18px;
+  font-weight: bold;
+  }
+  
+  .last_line { 
+  font-weight: italic;
+  font-size: 19px;
+  color: #ff0035;
+  font-weight: bold;
+  background: #036666;
+  
+  }
+  
+  .about_us_header { 
+  
+  background: #0aff99
+  }
+  
+  .about_us_para { 
+  background: #f4e4ba
+  }
+  
+  .logo {
+	  
+	  margin: 20px auto;
+	  text-align: center;
+	  
+	  
+  }
+  
+  .banner {
+
+     width:100%
+     }
+	 
+	 
+	 .heading_table { 
+	  background: #7bf1a8;
+	  font-weight: bold;
+	  font-size: 22px;
+	 } 
+	 
+	 .center_table {
+	margin: 0 auto ;
+    text-align: center;
+	 
+	 }
+	 
+	header { 
+	width:75%; 
+	border: 2px solid yellow;
+	margin: 0px auto;
+	}
+	
+	footer { 
+	
+	color: white;
+	text-align: center;
+	background: 1d3354;
+	margin: 0px auto;
+	padding: 20px 0px ;
+	
+	
+	}
